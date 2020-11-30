@@ -1,12 +1,12 @@
 * body { margin: 0; padding: 0; }
 
-.wrapper {
-	width: 80%;
-}
+/* .wrapper { width: 80%; } */
+
+.wrapper { margin: 30px; padding: 0px }
 
 /* .img-banner {
 	display: none;
-	width: 110%
+	width: 100%
 } */
 
 /* .welcome h2{
