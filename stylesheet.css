@@ -16,12 +16,12 @@
 	width: 100%;
 }
 
-.welcome h2{
+/* .welcome h2{
 	padding: 10px 30px 10px;
 	font-size: 35px;
 	color: #111;
 	line-height: 44px;
-}
+} */
 
 .welcome p{
 	padding: 0px 30px 20px;
@@ -34,19 +34,19 @@
 	width: 100%;
 }
 
-.current-research h2{
+/* .current-research h2{
 	padding: 0px 30px 0px;
 	font-size: 35px;
 	color: #111;
 	line-height: 44px;
-}
+} */
 
-.current-research h3{
+/* .current-research h3{
 	padding: 0px 30px 10px;
 	font-size: 25px;
 	color: #929297;
 	line-height: 25px;
-}
+} */
 
 .current-research {
     display: table-cell;
@@ -69,19 +69,19 @@
 	width: 100%;
 }
 
-.resume h2{
+/* .resume h2{
 		padding: 0px 30px 0px;
 		font-size: 35px;
 		color: #111;
 		line-height: 44px;
 
-}
+} */
 
-.resume h3{
+/* .resume h3{
 	padding: 5px 50px 10px;
 	font-size: 2vw;
 	color: #929297;
-}
+} */
 
 li span {
 font-size: 16px;
@@ -97,19 +97,19 @@ padding: 10px 50px 10px;
 	width:100%;
 }
 
-.contact h2{
+/* .contact h2{
 	padding: 0px 30px 0px;
 	font-size: 35px;
 	color: #111;
 	line-height: 44px;
-}
+} */
 
-.contact h3{
+/* .contact h3{
 	padding: 0px 30px 0px;
 	font-size: 25px;
 	color: #929297;
 	line-height: 25px;
-}
+} */
 
 ul {
 font-size: 16px;
