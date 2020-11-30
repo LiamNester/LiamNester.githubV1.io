@@ -9,12 +9,12 @@
     font-size: 95%;
     margin-bottom: 5px;
     padding: 5px;
-    width: 200px;
+    width: 175px;
 }
 
 .toc_title {
-    font-weight: 700;
-    text-align: left;
+    font-weight: 1000;
+    text-align: center;
 }
 
 #toc_container li, #toc_container ul, #toc_container ul li{
