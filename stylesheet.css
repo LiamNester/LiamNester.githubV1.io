@@ -1,8 +1,7 @@
-/* * {
-	margin: 0;
-	padding: 0;
-	font-family: 'Inter UI', sans-serif;
-} */
+* body {
+	margin: 0; padding: 0;
+	/* font-family: 'Inter UI', sans-serif; */
+}
 
 /* .wrapper {
 	width: 100%;
@@ -20,12 +19,12 @@
 	line-height: 44px;
 } */
 
-/* .welcome p{
+.welcome p{
 	padding: 0px 30px 20px;
-	font-size: 16px;
-	color: #111;
-	line-height: 24px;
-} */
+	/* font-size: 16px; */
+	/* color: #111; */
+	/* line-height: 24px; */
+}
 
 /* .img-welcome{
 	width: 100%;
@@ -54,13 +53,13 @@
 	padding: 10px 50px 10px 10px;
 } */
 
-/* .current-research p{
+.current-research p{
 	padding: 140px 30px 10px 30px;
-	font-size: 16px;
-	color: #111;
-	line-height: 24px;
-	position: relative;
-} */
+	/* font-size: 16px; */
+	/* color: #111; */
+	/* line-height: 24px; */
+	/* position: relative; */
+}
 
 /* .resume {
 	width: 100%;
