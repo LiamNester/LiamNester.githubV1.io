@@ -2,7 +2,7 @@
 
 /* .wrapper { width: 80%; } */
 
-.wrapper { margin: 30px; padding: 0px }
+.wrapper { margin: 20px}
 
 /* .img-banner {
 	display: none;
@@ -62,12 +62,13 @@
 	width: 100%;
 } */
 
-/* .resume h2{
-	padding: 0px 30px 0px;
-	font-size: 35px;
-	color: #111;
-	line-height: 44px;
-} */
+.resume h2{
+	margin: 20px
+	/* padding: 0px 30px 0px; */
+	/* font-size: 35px; */
+	/* color: #111; */
+	/* line-height: 44px; */
+}
 
 /* .resume h3{
 	padding: 5px 50px 10px;
