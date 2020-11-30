@@ -1,8 +1,8 @@
-/* * {
+* {
 	margin: 0;
 	padding: 0;
-	font-family: 'Inter UI', sans-serif;
-} */
+	/* font-family: 'Inter UI', sans-serif; */
+}
 
 .wrapper {
 	width: 100%;
@@ -59,19 +59,17 @@
 	color: #111;
 	line-height: 24px;
 	position: relative;
-	
 } */
 
-/* .resume {
+.resume {
 	width: 100%;
-} */
+}
 
 /* .resume h2{
 		padding: 0px 30px 0px;
 		font-size: 35px;
 		color: #111;
 		line-height: 44px;
-
 } */
 
 /* .resume h3{
@@ -90,9 +88,9 @@ padding: 10px 50px 10px;
 
 } */
 
-/* .contact {
+.contact {
 	width:100%;
-} */
+}
 
 /* .contact h2{
 	padding: 0px 30px 0px;
