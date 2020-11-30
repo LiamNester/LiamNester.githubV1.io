@@ -1,20 +1,18 @@
-* {
+/* * {
 	margin: 0;
 	padding: 0;
 	font-family: 'Inter UI', sans-serif;
-}
+} */
 
-.wrapper {
+/* .wrapper {
 	width: 100%;
-}
+} */
 
-.img-banner {
+/* .img-banner { */
 	/*display: none;*/
-}
+/* } */
 
-.welcome {
-	width: 100%;
-}
+ /*  */
 
 /* .welcome h2{
 	padding: 10px 30px 10px;
@@ -23,16 +21,16 @@
 	line-height: 44px;
 } */
 
-.welcome p{
+/* .welcome p{
 	padding: 0px 30px 20px;
 	font-size: 16px;
 	color: #111;
 	line-height: 24px;
-}
+} */
 
-.img-welcome{
+/* .img-welcome{
 	width: 100%;
-}
+} */
 
 /* .current-research h2{
 	padding: 0px 30px 0px;
@@ -48,26 +46,27 @@
 	line-height: 25px;
 } */
 
-.current-research {
+/* .current-research {
     display: table-cell;
-}
-.current-research img {
+} */
+
+/* .current-research img {
     float: left;
 	padding: 10px 50px 10px 10px;
-}
+} */
 
-.current-research p{
+/* .current-research p{
 	padding: 140px 30px 10px 30px;
 	font-size: 16px;
 	color: #111;
 	line-height: 24px;
 	position: relative;
 	
-}
+} */
 
-.resume {
+/* .resume {
 	width: 100%;
-}
+} */
 
 /* .resume h2{
 		padding: 0px 30px 0px;
@@ -83,15 +82,15 @@
 	color: #929297;
 } */
 
-li span {
+/* li span {
 font-size: 16px;
-}
+} */
 
-ol {
+/* ol {
 font-size: 16px;
 padding: 10px 50px 10px; 
 
-}
+} */
 
 /* .contact {
 	width:100%;
@@ -111,8 +110,8 @@ padding: 10px 50px 10px;
 	line-height: 25px;
 } */
 
-ul {
+/* ul {
 font-size: 16px;
 padding: 0px 33px 10px; 
 
-}
+} */
