@@ -4,109 +4,109 @@
 	/* font-family: 'Inter UI', sans-serif; */
 }
 
-/* .wrapper {
+.wrapper {
 	width: 100%;
-} */
+}
 
 .img-banner {
-	/* display: none; */
+	display: none;
 	width: 100%
 }
 
-/* .welcome h2{
+.welcome h2{
 	padding: 10px 30px 10px;
-	font-size: 35px;
-	color: #111;
-	line-height: 44px;
-} */
+	/* font-size: 35px; */
+	/* color: #111; */
+	/* line-height: 44px; */
+}
 
-/* .welcome p{
+.welcome p{
 	padding: 0px 30px 20px;
-	font-size: 16px;
-	color: #111;
-	line-height: 24px;
-} */
+	/* font-size: 16px; */
+	/* color: #111; */
+	/* line-height: 24px; */
+}
 
-/* .img-welcome{
+.img-welcome{
 	width: 100%;
-} */
+}
 
-/* .current-research h2{
+.current-research h2{
 	padding: 0px 30px 0px;
-	font-size: 35px;
-	color: #111;
-	line-height: 44px;
-} */
+	/* font-size: 35px; */
+	/* color: #111; */
+	/* line-height: 44px; */
+}
 
-/* .current-research h3{
+.current-research h3{
 	padding: 0px 30px 10px;
-	font-size: 25px;
-	color: #929297;
-	line-height: 25px;
-} */
+	/* font-size: 25px; */
+	/* color: #929297; */
+	/* line-height: 25px; */
+}
 
 /* .current-research {
     display: table-cell;
 } */
 
-/* .current-research img {
-    float: left;
+.current-research img {
+    /* float: left; */
 	padding: 10px 50px 10px 10px;
-} */
+}
 
-/* .current-research p{
+.current-research p{
 	padding: 140px 30px 10px 30px;
-	font-size: 16px;
-	color: #111;
-	line-height: 24px;
-	position: relative;
-} */
+	/* font-size: 16px; */
+	/* color: #111; */
+	/* line-height: 24px; */
+	/* position: relative; */
+}
 
-/* .resume {
+.resume {
 	width: 100%;
-} */
+}
 
-/* .resume h2{
+.resume h2{
 	padding: 0px 30px 0px;
-	font-size: 35px;
-	color: #111;
-	line-height: 44px;
-} */
+	/* font-size: 35px; */
+	/* color: #111; */
+	/* line-height: 44px; */
+}
 
-/* .resume h3{
+.resume h3{
 	padding: 5px 50px 10px;
-	font-size: 2vw;
-	color: #929297;
-} */
+	/* font-size: 2vw; */
+	/* color: #929297; */
+}
 
 /* li span {
 	font-size: 16px;
 } */
 
-/* ol {
-	font-size: 16px;
+ol {
+	/* font-size: 16px; */
 	padding: 10px 50px 10px; 
-} */
+}
 
-/* .contact {
+.contact {
 	width:100%;
-} */
+}
 
-/* .contact h2{
+.contact h2{
 	padding: 0px 30px 0px;
-	font-size: 35px;
-	color: #111;
-	line-height: 44px;
-} */
+	/* font-size: 35px; */
+	/* color: #111; */
+	/* line-height: 44px; */
+}
 
-/* .contact h3{
+.contact h3{
 	padding: 0px 30px 0px;
-	font-size: 25px;
-	color: #929297;
-	line-height: 25px;
-} */
+	/* font-size: 25px; */
+	/* color: #929297; */
+	/* line-height: 25px; */
+}
 
-/* ul {
-	font-size: 16px;
+ul {
+	/* font-size: 16px; */
 	padding: 0px 33px 10px; 
-} */
+}
