@@ -4,11 +4,11 @@
 
 #toc_container {
     background: #F5E6CC none repeat scroll 0 0;
-    border: 1px solid #aaa;
+    border: 1px solid #F5E6CC;
     display: table;
     font-size: 95%;
     margin-bottom: 5px;
-    padding: 1px;
+    padding: 5px;
     width: auto;
 }
 
