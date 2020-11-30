@@ -3,12 +3,12 @@
 .wrapper { margin: 10px }
 
 #toc_container {
-    background: #f9f9f9 none repeat scroll 0 0;
+    background: #F5E6CC none repeat scroll 0 0;
     border: 1px solid #aaa;
     display: table;
     font-size: 95%;
     margin-bottom: 5px;
-    padding: 0px;
+    padding: 1px;
     width: auto;
 }
 
