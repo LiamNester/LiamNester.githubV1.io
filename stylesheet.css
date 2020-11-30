@@ -8,8 +8,8 @@
     display: table;
     font-size: 95%;
     margin-bottom: 5px;
-    padding: 2px;
-    width: 72px;
+    padding: 0px;
+    width: auto;
 }
 
 .toc_title {
