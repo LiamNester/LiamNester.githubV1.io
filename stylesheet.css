@@ -1,11 +1,8 @@
-/* * body {
-	margin: 0; padding: 0;
-	font-family: 'Inter UI', sans-serif;
-} */
+* body { margin: 0; padding: 0; }
 
-/* .wrapper {
-	width: 100%;
-} */
+.wrapper {
+	width: 90%;
+}
 
 /* .img-banner {
 	display: none;
